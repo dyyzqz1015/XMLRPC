@@ -1,0 +1,15 @@
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\bin\Debug\Client.exe.config
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\bin\Debug\Client.exe
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\bin\Debug\Client.pdb
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\bin\Debug\cookcomputing.xmlrpcv2.dll
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.csproj.CopyComplete
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.exe
+E:\12-VS_learn\XMLRPCServerPythonCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.pdb
+E:\12-VS_learn\XMLRPC\XMLRPCServerPython_ClientCSharp\XMLRPCServerPythonCSharp\Client\bin\Debug\Client.exe.config
+E:\12-VS_learn\XMLRPC\XMLRPCServerPython_ClientCSharp\XMLRPCServerPythonCSharp\Client\bin\Debug\Client.exe
+E:\12-VS_learn\XMLRPC\XMLRPCServerPython_ClientCSharp\XMLRPCServerPythonCSharp\Client\bin\Debug\Client.pdb
+E:\12-VS_learn\XMLRPC\XMLRPCServerPython_ClientCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\12-VS_learn\XMLRPC\XMLRPCServerPython_ClientCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.csproj.CopyComplete
+E:\12-VS_learn\XMLRPC\XMLRPCServerPython_ClientCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.exe
+E:\12-VS_learn\XMLRPC\XMLRPCServerPython_ClientCSharp\XMLRPCServerPythonCSharp\Client\obj\Debug\Client.pdb
